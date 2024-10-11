@@ -3,4 +3,3 @@ resource "aircraft_engine" "my_engine" {
   capacity  = "2000"
   password  = "Codetober"
 }
-s
